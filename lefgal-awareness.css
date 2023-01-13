@@ -1,0 +1,61 @@
+body {
+    font-family: Poppins,Arial, Helvetica, sans-serif;
+}
+.legal-awareness-img {
+    width: 800px;
+    margin-left: 20px;
+}
+h1 {
+    margin-left: 20px;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-top: 10px;
+}
+.description {
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 20px;
+}
+h2 {
+    margin-left: 20px;
+}
+.definitions { 
+    margin-bottom: 0;
+}
+.definition-container {
+    margin-top: 0;
+}
+.maintenance-of-parent-img {
+    width: 500px;
+    margin-left: 20px;
+}
+.definition-ul {
+    margin-top: 0;
+}
+.definition-container {
+    padding-bottom: 100px;
+}
+.maintenance-heading {
+    margin-bottom: 0;
+}
+.miantenance-desription {
+    margin-left: 20px;
+    margin-top: 0;
+}
+.go-to-back-btn {
+    margin-bottom: 20px;
+    margin-left: 20px;
+    border: none;
+    border-radius: 3px;
+    background-color: #14368C;
+    color: white;
+    padding: 15px 40px;
+    font-size: 1em;
+    margin-top: 10px;
+    font-weight: 500;
+    transition: 0.3s;
+    cursor: pointer;
+}
+.go-to-back-btn:hover {
+    opacity: 0.8;
+}

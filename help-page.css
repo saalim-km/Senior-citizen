@@ -1,0 +1,136 @@
+body {
+    font-family: Poppins,Arial, Helvetica, sans-serif;
+}
+.pension-img {
+    margin-left: 20px;
+    margin-top: 20px;
+    width: 50%;
+}
+.text-container {
+    margin-left: 20px;
+}
+.process-container {
+    margin-top: 60px;
+}
+.heading {
+    margin-bottom: 0;
+}
+.subhead {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.process-involed {
+    margin-bottom: 0;
+    margin-left: 20px;
+}
+.process-involved-ul {
+    margin-top: 0;
+}
+.go-back-btn {
+    border: none;
+    border-radius: 3px;
+    background-color: #14368C;
+    color: white;
+    padding: 15px 40px;
+    font-size: 1em;
+    margin-top: 10px;
+    font-weight: 500;
+    transition: 0.3s;
+    cursor: pointer;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.go-back-btn:hover {
+    opacity: 0.7;
+}
+.Criteria-heading {
+    margin-bottom: 0;
+    margin-left: 20px;
+}
+.criteria-ul {
+    margin-top: 0;
+}
+.Criteria-container {
+    margin-top: 60px;
+}
+
+
+/* Old Age Home */
+.heading-old-age-home {
+    text-align: center;
+}
+.home-card {
+    box-shadow: 0 0px 4px 0 rgb(0 0 0 / 21%);;
+    display: grid;
+    grid-template-columns: 310px 1fr;
+    column-gap: 10px;
+}
+.home-card-img {
+    width: 100%;
+    object-fit: cover;
+}
+.home-name {
+    margin-bottom: 5px;
+}
+.home-card-text {
+    width: 710px;
+    margin-left: 10px;
+}
+.home-card-place {
+    display: inline-block;
+    margin-right: 10px;
+    color: gray;
+    margin-top: 0;
+}
+.home-card-btn {
+    display: block;
+    border: none;
+    border-radius: 3px;
+    background-color: #14368C;
+    color: white;
+    padding: 15px 20px;
+    font-size: 1em;
+    margin-top: 0;
+    font-weight: 500;
+    transition: 0.3s;
+    cursor: pointer;
+}
+.home-card-btn:hover {
+    opacity: 0.8;
+}
+.view-location {
+    color: #14368C;
+    transition: 0.3s;
+}
+.view-location:hover {
+    opacity: 0.8;
+}
+.home-card-img-container {
+    margin-left: 10px;
+    margin-top: 10px;
+
+}
+.home-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 20px;
+    row-gap: 20px;
+}
+.go-to-back-btn {
+    border: none;
+    border-radius: 3px;
+    background-color: #14368C;
+    color: white;
+    padding: 15px 40px;
+    font-size: 1em;
+    margin-top: 10px;
+    font-weight: 500;
+    transition: 0.3s;
+    cursor: pointer;
+}
+.go-to-back-btn:hover {
+    opacity: 0.8;
+}
+.btn-link {
+    text-decoration: none;
+}
